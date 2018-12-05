@@ -40,12 +40,12 @@ git checkout [branch]
 
 ### Tips:
 
-- Creating a repository
+###### Creating a repository
 Create it from GitHub, then clone it on your machine. If you have exsisting files, copy and paste them inside the cloned repository. Then do ```git push ... ```
-- Discard local changes:
+###### Discard local changes:
 An easy way to do it is by deleting the repository on the computer (delete the folder) and reclone it again.
 
-- Creating a branch
+###### Creating a branch
 Easier to do it from GitHub, create a branch there, and pull the changes using ```git pull ... ```
 
 ### Understanding GitHub workflow
