@@ -12,7 +12,7 @@ git push origin [branch]
 ```
 for example, if you want to push to the master branch:
 ```bash
-git commit -m "git push origin master"
+git push origin master
 ```
 
 ### Useful commands
