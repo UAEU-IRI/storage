@@ -38,5 +38,9 @@ git status
 git checkout [branch] 
 ```
 
+### Dicard local changes:
+
+- I do it by deleting the repository on the computer (delete the folder) and reclone it again.
+
 ### Understanding GitHub workflow
 Follow [this](https://guides.github.com/introduction/flow/) link. It shows you how to utilize GitHub and how to effectively use it for team work.
