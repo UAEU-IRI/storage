@@ -38,3 +38,5 @@ git status
 git checkout [branch] 
 ```
 
+### Understanding GitHub workflow
+Follow [this](https://guides.github.com/introduction/flow/) link. It shows you how to utilize GitHub and how to effectively use it for team work.
